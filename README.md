@@ -2,7 +2,7 @@
 
 Overview
 
-This repository contains the complete code required to reproduce all figures presented in “A Turning Point in Autumn Phenology under Changing Temperature-Precipitation Regimes”, including main figures, extended data figures, and supplementary information figures. 
+This repository contains the complete code required to reproduce all figures presented in “A Turning Point in Autumn Phenology under Changing Temperature-Precipitation Regimes”, including main figures, extended data figures, and supplementary information figures. It also contains code for autumn phenology modeling, projection, and causal effect calculation.
 
 Contact
 
